@@ -4,14 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qXdD4Q8_ktZKNq7Cln3V-107" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qXdD4Q8_ktZKNq7Cln3V-107" value="商务" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="80" width="140" height="460" as="geometry" />
         </mxCell>
         <mxCell id="qXdD4Q8_ktZKNq7Cln3V-108" value="项目团队" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="40" width="950" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qXdD4Q8_ktZKNq7Cln3V-110" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="40" width="70" height="550" as="geometry" />
+          <mxGeometry x="330" y="40" width="50" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="qXdD4Q8_ktZKNq7Cln3V-111" value="用户群体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="540" width="950" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qXdD4Q8_ktZKNq7Cln3V-112" value="项目" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="80" width="140" height="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
