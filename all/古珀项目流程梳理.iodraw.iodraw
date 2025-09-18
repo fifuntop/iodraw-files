@@ -25,6 +25,12 @@
         <mxCell id="qXdD4Q8_ktZKNq7Cln3V-114" value="运维" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="80" width="140" height="810" as="geometry" />
         </mxCell>
+        <mxCell id="qXdD4Q8_ktZKNq7Cln3V-119" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="qXdD4Q8_ktZKNq7Cln3V-114">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-470" y="180" as="sourcePoint" />
+            <mxPoint x="700" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qXdD4Q8_ktZKNq7Cln3V-115" value="数据采集" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="940" y="80" width="140" height="810" as="geometry" />
         </mxCell>
@@ -37,11 +43,11 @@
         <mxCell id="qXdD4Q8_ktZKNq7Cln3V-118" value="测试" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="80" width="140" height="810" as="geometry" />
         </mxCell>
-        <mxCell id="qXdD4Q8_ktZKNq7Cln3V-119" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="190" as="sourcePoint" />
-            <mxPoint x="380" y="140" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="qXdD4Q8_ktZKNq7Cln3V-120" value="立项" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="110" width="30" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="qXdD4Q8_ktZKNq7Cln3V-121" value="立项" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="280" width="30" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
