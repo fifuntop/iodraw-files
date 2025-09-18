@@ -15,8 +15,26 @@
         <mxCell id="qXdD4Q8_ktZKNq7Cln3V-33" value="监管机构" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="qXdD4Q8_ktZKNq7Cln3V-9">
           <mxGeometry y="80" width="1310" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="qXdD4Q8_ktZKNq7Cln3V-34" value="产品部" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qXdD4Q8_ktZKNq7Cln3V-9">
+        <mxCell id="qXdD4Q8_ktZKNq7Cln3V-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qXdD4Q8_ktZKNq7Cln3V-9" source="qXdD4Q8_ktZKNq7Cln3V-34" target="qXdD4Q8_ktZKNq7Cln3V-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qXdD4Q8_ktZKNq7Cln3V-34" value="产品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qXdD4Q8_ktZKNq7Cln3V-9">
           <mxGeometry x="30" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qXdD4Q8_ktZKNq7Cln3V-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qXdD4Q8_ktZKNq7Cln3V-9" source="qXdD4Q8_ktZKNq7Cln3V-35" target="qXdD4Q8_ktZKNq7Cln3V-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qXdD4Q8_ktZKNq7Cln3V-35" value="运维" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qXdD4Q8_ktZKNq7Cln3V-9">
+          <mxGeometry x="230" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qXdD4Q8_ktZKNq7Cln3V-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qXdD4Q8_ktZKNq7Cln3V-9" source="qXdD4Q8_ktZKNq7Cln3V-37" target="qXdD4Q8_ktZKNq7Cln3V-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qXdD4Q8_ktZKNq7Cln3V-37" value="数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qXdD4Q8_ktZKNq7Cln3V-9">
+          <mxGeometry x="430" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qXdD4Q8_ktZKNq7Cln3V-39" value="运维" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qXdD4Q8_ktZKNq7Cln3V-9">
+          <mxGeometry x="630" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qXdD4Q8_ktZKNq7Cln3V-10" value="医院/卫生院" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="qXdD4Q8_ktZKNq7Cln3V-8">
           <mxGeometry y="220" width="1310" height="120" as="geometry" />
