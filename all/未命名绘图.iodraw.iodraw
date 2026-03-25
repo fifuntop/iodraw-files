@@ -68,6 +68,9 @@
         <mxCell id="77e6c97f196da883-18" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;撰写用例/执行用例/提交BUG/验证BUG/关闭BUG&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-6" vertex="1">
           <mxGeometry x="30" y="400" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="F1yuSdpOFy7E37sYe1BK-13" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;撰写用例/执行用例/提交BUG/验证BUG/关闭BUG&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-6">
+          <mxGeometry x="30" y="220" width="100" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="77e6c97f196da883-7" value="Lane 6" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="800" y="20" width="160" height="730" as="geometry" />
         </mxCell>
