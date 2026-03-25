@@ -83,7 +83,7 @@
         <mxCell id="77e6c97f196da883-7" value="Lane 6" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="800" y="20" width="160" height="730" as="geometry" />
         </mxCell>
-        <mxCell id="77e6c97f196da883-24" value="发布上线" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-7" vertex="1">
+        <mxCell id="77e6c97f196da883-24" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;发布上线&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-7" vertex="1">
           <mxGeometry x="30" y="640" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F1yuSdpOFy7E37sYe1BK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-1" source="77e6c97f196da883-9" target="77e6c97f196da883-11">
@@ -107,6 +107,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="F1yuSdpOFy7E37sYe1BK-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-1" source="F1yuSdpOFy7E37sYe1BK-14" target="77e6c97f196da883-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F1yuSdpOFy7E37sYe1BK-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.021;entryY=0.595;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="77e6c97f196da883-1" source="F1yuSdpOFy7E37sYe1BK-17" target="77e6c97f196da883-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
