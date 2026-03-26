@@ -50,7 +50,7 @@
         <mxCell id="77e6c97f196da883-4" value="产品经理" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="320" y="20" width="160" height="730" as="geometry" />
         </mxCell>
-        <mxCell id="77e6c97f196da883-12" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;维护需求&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-4" vertex="1">
+        <mxCell id="77e6c97f196da883-12" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;维护需求/&lt;/font&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;维护模块&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-4" vertex="1">
           <mxGeometry x="30" y="190" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-5" value="研发人员(数据+开发)" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
